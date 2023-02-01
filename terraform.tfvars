@@ -1,0 +1,7 @@
+rg_name = "azurefunction-rg"
+location = "EastUS"
+function_name = "function0015"
+app_plan_name = "azurefunction-plan"
+app_service_name = "azure-functions-test-service-plan-0015"
+azurerm_function_name = "test0015"
+azurerm_app_service_kind = "FunctionApp"
